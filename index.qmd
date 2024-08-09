@@ -1,5 +1,24 @@
 ---
-title: "bunyaminatay.github.io"
+title: "Bünyamin Atay"
+image: media/headshot.jpg
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 20em
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/bünyamin-atay-226957199/
+    - icon: github
+      text: GitHub
+      href: https://github.com/bunyaminatay
+    - icon: mailbox
+      text: Email
+      href: mailto:batay@uwm.edu
+---
+        
+# page content excluded for brevity ~
 ---
 
 This is a Quarto website.
