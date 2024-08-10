@@ -1,1 +1,5 @@
+title: "All resources I used"
 
+I built my webpage using the instruction [here](https://ucsb-meds.github.io/creating-quarto-websites/#resources "Creating Quarto Website").
+
+https://github.com/quarto-ext/fontawesome

@@ -12,5 +12,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Bünyamin Atay",
+    "section": "",
+    "text": "title: “All resources I used”\nI built my webpage using the instruction here.\nhttps://github.com/quarto-ext/fontawesome"
   }
 ]
