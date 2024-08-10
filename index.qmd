@@ -17,14 +17,24 @@ about:
       text: Email
       href: mailto:batay@uwm.edu
 ---
-        
-# page content excluded for brevity ~
----
 
-This is a Quarto website.
+# Hi all!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My name is Bünyamin Atay. I am a doctoral student at Counseling Psychology program in University of Wisconsin-Milwaukee. I am currently working with Dr. Autin. My research interests lie in *psychological wellbeing*, *vocational development*, *measurement in counseling psychology*. In this website, you can find all the avenues I am interested in.
 
-```{r}
-1 + 1
-```
+# Education
+
+**PhD in Counseling Psychology (ongoing)**| University of Wisconsin-Milwaukee
+
+**PhD in Psychological Counseling (ongoing)**| Middle East Technical University 
+
+**MS in Psychological Counseling (2021)**| Middle East Technical University
+
+**BA in Psychological Counseling (2018)**| Hacettepe University 
+
+# Experience
+
+**Graduate Assistant (2023 - Present)**| University of Wisconsin-Milwaukee
+
+**Teaching/Research Assistant (2019-2023)** | TED University
+

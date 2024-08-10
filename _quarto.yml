@@ -3,18 +3,21 @@ project:
   output-dir: docs
 
 website:
-  title: "bunyaminatay.github.io"
+  title: "Bünyamin Atay"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - href: resources.qmd
+        text: Resources
 
 format:
   html:
-    theme: cosmo
+    theme: lumen
     css: styles.css
     toc: true
+    page-layout: full
 
 editor: visual
 
