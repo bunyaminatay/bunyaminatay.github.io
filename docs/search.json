@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "posts/2024-08-09-first-post/index.html",
+    "href": "posts/2024-08-09-first-post/index.html",
+    "title": "blog post title",
+    "section": "",
+    "text": "CitationBibTeX citation:@online{csik2022,\n  author = {Samantha Csik},\n  title = {Blog Post Title},\n  date = {2022-10-24},\n  url = {https://samanthacsik.github.io/posts/2022-10-24-my-blog-post/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nSamantha Csik. 2022. “Blog Post Title.” October 24, 2022.\nhttps://samanthacsik.github.io/posts/2022-10-24-my-blog-post/."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Bünyamin Atay",
@@ -12,6 +19,13 @@
     "title": "About",
     "section": "",
     "text": "Bünyamin Atay is a doctoral student in Counseling Psychology at the Department of Educational Psychology at the University of Wisconsin-Milwaukee. He earned his Master of Science degree in Psychological Counseling and Guidance from Middle East Technical University (METU) in Türkiye.\nBünyamin worked as a research assistant at TED University for four years before moving to UWM to pursue his doctoral degree in Counseling Psychology. His research interests lie in vocational psychology, psychological well-being, youth (un)employment, self-resources (e.g., self-efficacy), and the adaptation of measurement tools across different cultures. Additionally, he is passionate about quantitative psychology, specifically the measurement of latent constructs and the testing of latent models within Counseling Psychology.\nHe is currently working on various projects that examine the measurement of latent constructs and the synthesis of quantitative evidence in his field through meta-analysis. He also serves as a student advisory board member at the Journal of Career Assessment.\nBünyamin aims to contribute to the field of Counseling Psychology by developing effective interventions to enhance psychological well-being and career development. He has presented his research at various national and international conferences and is a member of the American Psychological Association (APA).\nIn his spare time, Bünyamin enjoys reading about history, running, and cooking Turkish food. He also delights in watching soccer and is a big fan of Galatasaray Football Club, which is his childhood love."
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "My Blog",
+    "section": "",
+    "text": "blog post title\n\n\n\nQuarto\n\n\nR\n\n\nMEDS\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\nSamantha Csik\n\n\nOct 24, 2022\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "resources.html",
