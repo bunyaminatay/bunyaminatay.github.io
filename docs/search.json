@@ -11,13 +11,13 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "Bünyamin Atay is a doctoral student in Counseling Psychology at the Department of Educational Psychology at the University of Wisconsin-Milwaukee. He earned his Master of Science degree in Psychological Counseling and Guidance from Middle East Technical University (METU) in Türkiye.\nBünyamin worked as a research assistant at TED University for four years before moving to UWM to pursue his doctoral degree in Counseling Psychology. His research interests lie in vocational psychology, psychological well-being, youth (un)employment, self-resources (e.g., self-efficacy), and the adaptation of measurement tools across different cultures. Additionally, he is passionate about quantitative psychology, specifically the measurement of latent constructs and the testing of latent models within Counseling Psychology.\nHe is currently working on various projects that examine the measurement of latent constructs and the synthesis of quantitative evidence in his field through meta-analysis. He also serves as a student advisory board member at the Journal of Career Assessment.\nBünyamin aims to contribute to the field of Counseling Psychology by developing effective interventions to enhance psychological well-being and career development. He has presented his research at various national and international conferences and is a member of the American Psychological Association (APA).\nIn his spare time, Bünyamin enjoys reading about history, running, and cooking Turkish food. He also delights in watching soccer and is a big fan of Galatasaray Football Club, which is his childhood love."
   },
   {
     "objectID": "resources.html",
     "href": "resources.html",
-    "title": "Bünyamin Atay",
+    "title": "All resources I used",
     "section": "",
-    "text": "title: “All resources I used”\nI built my webpage using the instruction here.\nhttps://github.com/quarto-ext/fontawesome"
+    "text": "I built my webpage using the instruction here.\nhttps://github.com/quarto-ext/fontawesome"
   }
 ]
