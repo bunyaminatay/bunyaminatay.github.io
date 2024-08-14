@@ -16,25 +16,28 @@ about:
     - icon: mailbox
       text: Email
       href: mailto:batay@uwm.edu
+    - text: "{{< ai orcid >}}" 
+      href: https://orcid.org/0000-0002-6575-0983
+    - text: "{{< ai google-scholar >}}"
+      href: https://scholar.google.com/citations?user=xFFF0dgAAAAJ&hl=en 
 ---
 
 # Hi all!
 
-My name is Bünyamin Atay. I am a doctoral student at Counseling Psychology program in University of Wisconsin-Milwaukee. I am currently working with Dr. Autin. My research interests lie in *psychological wellbeing*, *vocational development*, *measurement in counseling psychology*. In this website, you can find all the avenues I am interested in.
+My name is Bünyamin Atay, and I am a doctoral student in the Counseling Psychology program at the University of Wisconsin-Milwaukee, currently working with Dr. Autin. My research interests focus on *psychological wellbeing*, *vocational development*, *measurement in counseling psychology*. This website provides an overview of my academic, professional, and personal (sometimes) interests. You can find my updated [CV here](https://panthers-my.sharepoint.com/:b:/g/personal/batay_uwm_edu/EaovqW0TGmBMk44DSlDZhDMBxFJsBfUwt0mhGnsxYYVP7A?e=9TDGvE).
 
 # Education
 
-**PhD in Counseling Psychology (ongoing)**| University of Wisconsin-Milwaukee
+**PhD in Counseling Psychology (ongoing)**\| University of Wisconsin-Milwaukee
 
-**PhD in Psychological Counseling (ongoing)**| Middle East Technical University 
+**PhD in Psychological Counseling (ongoing)**\| Middle East Technical University
 
-**MS in Psychological Counseling (2021)**| Middle East Technical University
+**MS in Psychological Counseling (2021)**\| Middle East Technical University
 
-**BA in Psychological Counseling (2018)**| Hacettepe University 
+**BA in Psychological Counseling (2018)**\| Hacettepe University
 
 # Experience
 
-**Graduate Assistant (2023 - Present)**| University of Wisconsin-Milwaukee
+**Graduate Assistant (2023 - Present)**\| University of Wisconsin-Milwaukee
 
-**Teaching/Research Assistant (2019-2023)** | TED University
-
+**Teaching/Research Assistant (2019-2023)** \| TED University
