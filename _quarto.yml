@@ -12,6 +12,7 @@ website:
       - href: resources.qmd
         text: Resources
       - posts.qmd
+      - apps.qmd
 
 format:
   html:
