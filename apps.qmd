@@ -1,0 +1,11 @@
+---
+title: "Apps"
+---
+
+Lately, I started to work on apps which might be used for educational purposes. These are in nascent stages, and there is a need for further improvement. Please feel free to check out my apps and give me some feedback to further improve these apps.
+
+Here is my apps:
+
+[Chi-square](https://bunyaminatay.shinyapps.io/chi-square/) app
+
+[SCCT](https://bunyaminatay.shinyapps.io/scct/) app
