@@ -10,4 +10,4 @@ Here is my apps:
 
 [SCCT](https://bunyaminatay.shinyapps.io/scct/) app
 
-I would like to further develop new apps.
+I would like to further develops more apps.
