@@ -11,8 +11,10 @@ website:
       - about.qmd
       - href: resources.qmd
         text: Resources
-      - posts.qmd
-      - apps.qmd
+      - href: posts.qmd
+        text: My Blog
+      - href: apps.qmd
+        text: Apps
 
 format:
   html:
