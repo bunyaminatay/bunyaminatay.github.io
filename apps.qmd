@@ -9,3 +9,5 @@ Here is my apps:
 [Chi-square](https://bunyaminatay.shinyapps.io/chi-square/) app
 
 [SCCT](https://bunyaminatay.shinyapps.io/scct/) app
+
+I would like to further develop new apps.
