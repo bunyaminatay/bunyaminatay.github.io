@@ -6,7 +6,11 @@ editor: visual
 
 ## Quarto
 
+<<<<<<< HEAD
 TRIAL1
+=======
+TRIAL
+>>>>>>> e2b7c4f5a5a0fec648bd166c234b8f5661d1029c
 
 Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
 
