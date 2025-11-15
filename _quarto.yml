@@ -15,7 +15,7 @@ website:
         text: My Blog
       - href: apps.qmd
         text: Apps
-      - href: measurement_tools.qmd
+      - href: tools.qmd
         text: Measurement Tools
 
 format:
