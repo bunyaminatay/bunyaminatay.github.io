@@ -1,0 +1,17 @@
+---
+title: "Measurement Tools"
+---
+## Measurement Tools {.cards}
+
+::: {.card}
+### Work Volition Scale  
+Measures individuals’ perceived freedom in making career choices.  
+*Duffy et al., 2012*
+:::
+
+::: {.card}
+### Decent Work Scale  
+Assesses five components of decent work.  
+*Duffy et al., 2017*
+:::
+
