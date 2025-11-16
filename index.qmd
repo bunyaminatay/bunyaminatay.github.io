@@ -26,6 +26,12 @@ about:
 
 My name is Bünyamin Atay, and I am a doctoral student in the Counseling Psychology program at the University of Wisconsin-Milwaukee, currently working with Dr. Autin. My research interests focus on *psychological wellbeing*, *vocational development*, *measurement in counseling psychology*. This website provides an overview of my academic, professional, and personal (sometimes) interests. You can find my updated [CV here](https://panthers-my.sharepoint.com/:b:/g/personal/batay_uwm_edu/EaovqW0TGmBMk44DSlDZhDMBxFJsBfUwt0mhGnsxYYVP7A?e=9TDGvE).
 
+::: {.callout-note}
+**Notice:** This website is still in development and not fully ready yet.  
+In the upcoming months, there will be more content, resources, and updates.
+:::
+
+
 # Education
 
 **PhD in Counseling Psychology (ongoing)**\| University of Wisconsin-Milwaukee
