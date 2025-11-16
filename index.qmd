@@ -1,5 +1,8 @@
 ---
 title: "Bünyamin Atay"
+author: "B.Atay"
+date: "2024-08-09"
+last-modified: "2025-11-15"
 image: media/headshot.jpg
 toc: false
 about: 
@@ -8,25 +11,24 @@ about:
   image-width: 20em
   links:
     - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/bünyamin-atay-226957199/
+      text: "LinkedIn"
+      href: "https://www.linkedin.com/in/bünyamin-atay-226957199/"
     - icon: github
-      text: GitHub
-      href: https://github.com/bunyaminatay
+      text: "GitHub"
+      href: "https://github.com/bunyaminatay"
     - icon: mailbox
-      text: Email
-      href: mailto:batay@uwm.edu
+      text: "Email"
+      href: "mailto:batay@uwm.edu"
     - text: "{{< ai orcid >}}" 
-      href: https://orcid.org/0000-0002-6575-0983
+      href: "https://orcid.org/0000-0002-6575-0983"
     - text: "{{< ai google-scholar >}}"
-      href: https://scholar.google.com/citations?user=xFFF0dgAAAAJ&hl=en 
+      href: "https://scholar.google.com/citations?user=xFFF0dgAAAAJ&hl=en" 
 ---
 
-::: {.callout-warning}
-**Notice:** This website is under development. Some pages or features may not be fully available.  
+::: callout-warning
+**Notice:** This website is under development. Some pages or features may not be fully available.\
 Check back in the upcoming months for updates and new content.
 :::
-
 
 # Hi all!
 
