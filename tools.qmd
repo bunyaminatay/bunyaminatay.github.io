@@ -1,5 +1,9 @@
 ---
 title: "Measurement Tools"
 ---
+<<<<<<< HEAD
 
 Deneme 1 2 3 4
+=======
+Deneme 1 2 3 
+>>>>>>> c872461a572dc53a8d2e20bb8ce89b8ea4a57462
