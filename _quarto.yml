@@ -26,5 +26,8 @@ format:
     page-layout: full
     last-modified: true
 
+bibliography: references.bib  # Add this line
+csl: apa.csl  # Optional: for APA format
+
 editor: visual
 
