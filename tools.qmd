@@ -1,11 +1,15 @@
 ---
 title: "Measurement Tools"
 ---
-::: {.corner-quote}
-![](media/thorndike.jpg){.corner-photo}
+::: {.quote-container}
+![](media/thorndike.jpg){.author-photo}
+::: {.quote-text}
 > "*Whatever exists at all, exists in some amount. Anything that exists in amount can be measured.*"
 >
 > — E. L. Thorndike
+
+:::
+:::
 
 ## Welcome
 Welcome to my measurement tools page. Here you'll find psychometric instruments I've developed or adapted. Click on any tool below to jump to its details. 
