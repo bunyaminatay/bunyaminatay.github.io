@@ -19,21 +19,21 @@ Welcome to my measurement tools page. Here you'll find psychometric instruments 
 
 ::: {.grid}
 
-::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {class=".g-col-12 .g-col-md-6 .g-col-lg-4"}
 ::: {.card}
 ### [Work Volition Scale](#tool1)
 Measures perceived capacity to make occupational choices
 :::
 :::
 
-::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {class=".g-col-12 .g-col-md-6 .g-col-lg-4"}
 ::: {.card}
 ### [Burnout Inventory](#tool2)
 Assesses emotional exhaustion and depersonalization
 :::
 :::
 
-::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
+::: {class=".g-col-12 .g-col-md-6 .g-col-lg-4"}
 ::: {.card}
 ### [Career Satisfaction Scale](#tool3)
 Evaluates satisfaction with career development
