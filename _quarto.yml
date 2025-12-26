@@ -21,7 +21,7 @@ website:
 format:
   html:
     theme: lumen
-    # css: styles.css
+    css: styles.css
     toc: true
     page-layout: full
     last-modified: true
