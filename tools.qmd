@@ -1,39 +1,41 @@
 ---
 title: "Measurement Tools"
 ---
+
 ::: {.quote-container}
 ![](media/thorndike.jpg){.author-photo}
+
 ::: {.quote-text}
 > "*Whatever exists at all, exists in some amount. Anything that exists in amount can be measured.*"
 >
 > — E. L. Thorndike
-
 :::
 :::
 
 ## Welcome
 Welcome to my measurement tools page. Here you'll find psychometric instruments I've developed or adapted. Click on any tool below to jump to its details. 
+
 ---
 
 ## Available Tools
 
 ::: {.grid}
 
-::: {class=".g-col-12 .g-col-md-6 .g-col-lg-4"}
+::: {class="g-col-12 g-col-md-6 g-col-lg-4"}
 ::: {.card}
 ### [Work Volition Scale](#tool1)
 Measures perceived capacity to make occupational choices
 :::
 :::
 
-::: {class=".g-col-12 .g-col-md-6 .g-col-lg-4"}
+::: {class="g-col-12 g-col-md-6 g-col-lg-4"}
 ::: {.card}
 ### [Burnout Inventory](#tool2)
 Assesses emotional exhaustion and depersonalization
 :::
 :::
 
-::: {class=".g-col-12 .g-col-md-6 .g-col-lg-4"}
+::: {class="g-col-12 g-col-md-6 g-col-lg-4"}
 ::: {.card}
 ### [Career Satisfaction Scale](#tool3)
 Evaluates satisfaction with career development
@@ -67,8 +69,3 @@ Evaluates satisfaction with career development
 - **Items:** ...
 
 [Download PDF](#) | [Request Permission](mailto:your@email.com)
-
-
-
-
-
