@@ -23,28 +23,42 @@ Welcome to my measurement tools page. Here you'll find psychometric instruments 
 ::::::::: grid
 :::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
 ::: card
-### [Work Volition Scale](#tool1)
+### [Multidimensional Financial Wellbeing Scale - Turkish Version](#tool1)
 
-Measures perceived capacity to make occupational choices
+Measures multidimensional structure of financial wellbeing of emerging adults
 :::
 ::::
 
 :::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
 ::: card
-### [Burnout Inventory](#tool2)
+### [In progress](#tool2)
 
-Assesses emotional exhaustion and depersonalization
+Assesses 
 :::
 ::::
 
 :::: {.g-col-12 .g-col-md-6 .g-col-lg-4}
 ::: card
-### [Career Satisfaction Scale](#tool3)
+### [In progress](#tool3)
 
-Evaluates satisfaction with career development
+Evaluates 
 :::
 ::::
 :::::::::
+
+------------------------------------------------------------------------
+
+## Multidimensional Financial Wellbeing Scale {#tool1}
+
+**Description:** Comprehensive assessment of financial wellbeing dimensions.
+
+-   **Purpose:** To measure multidimensional structure of financial wellbeing among emerging adults.
+-   **Population:** Emerging adults
+-   **Items:** 5 sub-dimensions, 25 items
+-   **Language(s):** English, Turkish
+-   **Citation:** Your Name et al. (2025).
+
+[Download PDF](#) \| [View Scale Items](#) \| [Request Permission](mailto:your@email.com)
 
 ------------------------------------------------------------------------
 
