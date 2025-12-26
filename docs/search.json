@@ -25,7 +25,7 @@
     "href": "tools.html#available-tools",
     "title": "Measurement Tools",
     "section": "Available Tools",
-    "text": "Available Tools\n\n\n\nWork Volition Scale\nMeasures perceived capacity to make occupational choices\n\n\n\n\nBurnout Inventory\nAssesses emotional exhaustion and depersonalization\n\n\n\n\nCareer Satisfaction Scale\nEvaluates satisfaction with career development"
+    "text": "Available Tools\n\n\n\nMultidimensional Financial Wellbeing Scale - Turkish Version\nMeasures multidimensional structure of financial wellbeing of emerging adults\n\n\n\n\nIn progress\nAssesses\n\n\n\n\nIn progress\nEvaluates"
   },
   {
     "objectID": "tools.html#tool2",
@@ -82,5 +82,12 @@
     "title": "All resources I used",
     "section": "",
     "text": "I built my webpage using the instruction here.\nhttps://github.com/quarto-ext/fontawesome"
+  },
+  {
+    "objectID": "tools.html#tool1",
+    "href": "tools.html#tool1",
+    "title": "Measurement Tools",
+    "section": "Multidimensional Financial Wellbeing Scale",
+    "text": "Multidimensional Financial Wellbeing Scale\nDescription: Comprehensive assessment of financial wellbeing dimensions.\n\nPurpose: To measure multidimensional structure of financial wellbeing among emerging adults.\nPopulation: Emerging adults\nItems: 5 sub-dimensions, 25 items\nLanguage(s): English, Turkish\nCitation: Your Name et al. (2025).\n\nDownload PDF | View Scale Items | Request Permission"
   }
 ]
