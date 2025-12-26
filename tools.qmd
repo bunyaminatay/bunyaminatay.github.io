@@ -58,11 +58,11 @@ Evaluates
 -   **Language(s):** English, Turkish
 -   **Citation:** Your Name et al. (2025).
 
-[Download PDF](pdfs/MSFWBS-Turkish.pdf) \| [View Scale Items](#) \| [Request Permission](mailto:your@email.com)
+[Download PDF](pdfs/MSFWBS-Turkish.pdf) \| [View Scale Items](#) \| [Request Permission](mailto:batay@uwm.edu)
 
 ------------------------------------------------------------------------
 
-## Burnout Inventory {#tool2}
+## In progress {#tool2}
 
 **Description:** Comprehensive assessment of burnout dimensions.
 
@@ -76,7 +76,7 @@ Evaluates
 
 ------------------------------------------------------------------------
 
-## Career Satisfaction Scale {#tool3}
+## In progress {#tool3}
 
 **Description:** Brief description here.
 
