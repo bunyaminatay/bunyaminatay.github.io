@@ -33,7 +33,7 @@ Measures multidimensional structure of financial wellbeing of emerging adults
 ::: card
 ### [In progress](#tool2)
 
-Assesses 
+Assesses
 :::
 ::::
 
@@ -41,7 +41,7 @@ Assesses
 ::: card
 ### [In progress](#tool3)
 
-Evaluates 
+Evaluates
 :::
 ::::
 :::::::::
@@ -58,7 +58,7 @@ Evaluates
 -   **Language(s):** English, Turkish
 -   **Citation:** Your Name et al. (2025).
 
-[Download PDF](pdfs/MSFWBS-Turkish) \| [View Scale Items](#) \| [Request Permission](mailto:your@email.com)
+[Download PDF](pdfs/MSFWBS-Turkish.pdf) \| [View Scale Items](#) \| [Request Permission](mailto:your@email.com)
 
 ------------------------------------------------------------------------
 
