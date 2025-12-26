@@ -56,7 +56,7 @@ Evaluates
 -   **Population:** Emerging adults
 -   **Items:** 5 sub-dimensions, 25 items
 -   **Language(s):** English, Turkish
--   **Citation:** Your Name et al. (2025).
+-   **Citation:** @atay2025.
 
 [Download PDF](pdfs/MSFWBS-Turkish.pdf) \| [View Scale Items](#) \| [Request Permission](mailto:batay@uwm.edu)
 
